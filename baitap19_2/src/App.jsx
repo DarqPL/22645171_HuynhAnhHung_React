@@ -5,6 +5,7 @@ import './App.css'
 import Bai1 from './components/Bai1'
 import Bai2 from './components/Bai2'
 import Bai3 from './components/Bai3'
+import Bai4 from './components/Bai4'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     <Bai1/>
       <Bai2/>
       <Bai3/>
+      <Bai4/>
       </>
       
   )
